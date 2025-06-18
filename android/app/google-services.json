@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98645638552",
+    "project_id": "feffs-13bc2",
+    "storage_bucket": "feffs-13bc2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98645638552:android:85e3b9b4256264e6203fed",
+        "android_client_info": {
+          "package_name": "com.example.feffs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYvhPlGKThAQ0sqr_8jTUd5L67e-cl74E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
